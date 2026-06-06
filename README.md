@@ -4,13 +4,13 @@
 
 
 <a href="https://www.linkedin.com/in/anvay-jain/">
-<img align="left" alt="Anvay Jain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Anvay Jain | LinkedIn" width="40px" style="margin-right: 15px;" src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" />
 </a>
 <a href="https://www.leetcode.com/u/brightknight44">
-<img align="left" alt="Anvay Jain | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<img align="left" alt="Anvay Jain | LeetCode" width="40px" style="margin-right: 15px;" src="https://cdn.simpleicons.org/leetcode/FFA116/FF6B35" />
 </a>
 <a href="https://codeforces.com/profile/BlueRaven52">
-<img align="left" alt="Anvay Jain | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+<img align="left" alt="Anvay Jain | Codeforces" width="40px" style="margin-right: 15px;" src="https://cdn.simpleicons.org/codeforces/1F1C3F/58A6FF" />
 </a>
 <br />
 
