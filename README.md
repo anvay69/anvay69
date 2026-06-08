@@ -3,13 +3,13 @@
 <p>Software developer, algorithms addict, open-source enthusiast.</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/anvay-jain/" title="LinkedIn" style="margin-right:12px;">
+  <a href="https://www.linkedin.com/in/anvay-jain/" title="LinkedIn" style="margin-right:12px;display:inline-block">
     <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40px" />
   </a>
-  <a href="https://www.leetcode.com/u/brightknight44" title="LeetCode" style="margin-right:12px;">
+  <a href="https://www.leetcode.com/u/brightknight44" title="LeetCode" style="margin-right:12px;display:inline-block">
     <img alt="LeetCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" height="40px" />
   </a>
-  <a href="https://codeforces.com/profile/BlueRaven52" title="Codeforces" style="margin-right:12px;">
+  <a href="https://codeforces.com/profile/BlueRaven52" title="Codeforces" style="margin-right:12px;display:inline-block">
     <img alt="Codeforces" src="./codeforces-logo.svg" height="40px" />
   </a>
 </p>
