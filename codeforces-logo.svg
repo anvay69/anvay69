@@ -1,0 +1,31 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+    <!-- Yellow bar -->
+    <rect
+        x="0"
+        y="72"
+        width="56"
+        height="124"
+        rx="14"
+        fill="#F7C600"
+    />
+
+    <!-- Blue bar -->
+    <rect
+        x="84"
+        y="28"
+        width="56"
+        height="168"
+        rx="14"
+        fill="#4F7DBD"
+    />
+
+    <!-- Red bar -->
+    <rect
+        x="168"
+        y="100"
+        width="56"
+        height="96"
+        rx="14"
+        fill="#C90C0C"
+    />
+</svg>
